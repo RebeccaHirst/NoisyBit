@@ -1,4 +1,4 @@
-NoisyBit_RJHirst
+NoisyBit
 
 
 Create a continuous scale of luminance for images through randomly assigning an opacity setting to each pixel in an image. 
